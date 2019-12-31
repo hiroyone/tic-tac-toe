@@ -1,5 +1,6 @@
 # Tic Tac Toe
 A light-weight simple tic-tac-toe game written with React library
+![Image of Tic Tac Toe](https://ibb.co/z7mfSth)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
